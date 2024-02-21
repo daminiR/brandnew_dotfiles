@@ -1,0 +1,2034 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "54efa40befbbfb10314f930cc5275853eddd91f82b41825c004400d74cdaf2f13a0552a75ca2b4f197e74e8e7a9c643a09c736ee2442b7e4ca3f770c0dbcd68d"
+      },
+      "expiry": 1596839266486
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "8dff835ec20a7acec340274f97c6f87241bd2955e40dfb91893041a39ecd8c91ffb288d4a4ae2fb1390b71604fc4f00e0e1bdb0dd3731a00185cb72f3f6a7ef3"
+      },
+      "expiry": 1596839266488
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551"
+      },
+      "expiry": 1596839266491
+    },
+    "/Users/daminirijhwani/.pyenv/shims/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "fb4302af054412b353c1d22547863d76b67f4550118270c679e3ababa504758b9dac56e94e56e2554cf3ef2d96f7894cc7d2113dd42d990c2212ffeacdc9fd27"
+      },
+      "expiry": 1596839266504
+    },
+    "/Users/daminirijhwani/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "f7797fe268d4a8d0aa484f67f0f8d686f65d9e62f3b882eb8c4692ad3752d42b0327342e3ee3f4d253306dd082136804763cba18d3d0723c91bc2309761ae7ad"
+      },
+      "expiry": 1596839266509
+    },
+    "/Users/daminirijhwani/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "ba957dd7f8d0528052120e46fdf0c340c2b81ee31c3210860415b5432abd9a13767731a1e2d97d408ecec00ff56aa436849b99fa8cfa16c90b14c01d8f598d77"
+      },
+      "expiry": 1596839266511
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "8ce1e1a7594138694b8dff39bc25213c601601b9bcc5038e44be5ac533a2e1e0c8cf453d5e2c09aa626fd115e34b96dc1c8a45a05b89fdbb49133cf935f9bf84"
+      },
+      "expiry": 1596839266505
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "1388cb11d2a293e55023395d6607cd1ae9e2e0979725f46d64a25b328ef7a29229a60e1dad722a59067d95b433b193138dac1ad4a52d589e212cb6b105bd2fa3"
+      },
+      "expiry": 1596839266507
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "477cb608a45dbedb20fb1ddfc7b36013d3232bdd211181326d3271970c379820b0f125a6e213c93ea72a9152b40139c8143a060c699188acbf1904af8bb9d7c1"
+      },
+      "expiry": 1596839266509
+    },
+    "/usr/local/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "5b3ed2bddef3e255ddfcdd0f91c83f41cb39989363a1959546b1a487742aad0365961bb4103de60761d92e018b46fdf2ef51408147d2a6cb1969c0961138ab96"
+      },
+      "expiry": 1596839266505
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "74bc098ac499bd32d1fb4b6c1809b874fafa6822181603b90a8aa5396ca2be526ee65d0e02a88c492ba2ca19315199326e001212446be3ad50a473a7551d4e78"
+      },
+      "expiry": 1596839266510
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "506c7fa2c54a5f4ae1425957db08428c19837e956312249e15304968660eae44e5b1387920d1fef17bddeb7b0f0c0c24bc8c29674a8c994334930e1f364284ac"
+      },
+      "expiry": 1596839266606
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "54efa40befbbfb10314f930cc5275853eddd91f82b41825c004400d74cdaf2f13a0552a75ca2b4f197e74e8e7a9c643a09c736ee2442b7e4ca3f770c0dbcd68d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "8dff835ec20a7acec340274f97c6f87241bd2955e40dfb91893041a39ecd8c91ffb288d4a4ae2fb1390b71604fc4f00e0e1bdb0dd3731a00185cb72f3f6a7ef3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "506c7fa2c54a5f4ae1425957db08428c19837e956312249e15304968660eae44e5b1387920d1fef17bddeb7b0f0c0c24bc8c29674a8c994334930e1f364284ac",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.5-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.5-final"
+      },
+      "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+      "fileHash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+      "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.5-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.5-final"
+          },
+          "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+          "fileHash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551",
+          "envName": "3.7.5",
+          "type": "Pyenv",
+          "displayName": "Python 3.7.5 64-bit ('3.7.5': pyenv)"
+        }
+      },
+      "expiry": 1596839266581
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+        "fileHash": "45e12a0c2803e4e409b916a3e67d591e5b4256aeec6bdb91bc6e53eb6ffefda49914bc84fe203506c8e8f3d212fd2ec03b0ceff382eacceefde9e948e977c6bc"
+      },
+      "expiry": 1596839266484
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+        "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2"
+      },
+      "expiry": 1596839266485
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+        "fileHash": "859a04d0cb1a59f93c2231ee2a20f6d978566eeb38f48d10e106bb86461a7e91a745336dd363707667f3fe3f8aa5f428382ede47fe02026c80850f0859d7d27c"
+      },
+      "expiry": 1596839266477
+    },
+    "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/ai_stuff",
+        "fileHash": "b1e9f5b49a80671a5cf1f7f9f006e611a10087fbe82e99b3f1cd95ecffd8599776d48db56b199006e728cfa74b5c7dda8467369b26aca83fff0fddbe51fa1191"
+      },
+      "expiry": 1596839266483
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.6.9",
+        "fileHash": "5fd39f872d30f1626180f4b1d80dd59b0208de4eb5e1c792e245f06543978f46cfa431fa654973171b98d57320cdd1c39dd98e8143ba35c4e26b098540ba39e1"
+      },
+      "expiry": 1596839266487
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.6.9",
+        "fileHash": "b769f1493d367ffe96127f8b342be478ae50983e22ac9757d324bd03e7140638609d89e38a048f8142fbff250db46b8fe7f10293b98f7a48f77fda314959e282"
+      },
+      "expiry": 1596839266492
+    },
+    "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/ai_stuff",
+        "fileHash": "28d3295b86d4b9eb6f016d071950ba502382124d3fdbfd3e225ec1d1eb5557ceeb4d3277a704c1cefbb70f5d567b95b76adbf015cdf3442481122235a6282c1d"
+      },
+      "expiry": 1596839266481
+    },
+    "/Users/daminirijhwani/.pyenv/versions/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/venv",
+        "fileHash": "4894644e0935a5ebd4da4e785c472f405d2658ec5661bb8916aed9c36847bae73ce76f54f691a9499eb75aeb48058805dcd64d488fdb8c78b551ccafa38b3f51"
+      },
+      "expiry": 1596839266478
+    },
+    "/Users/daminirijhwani/.pyenv/versions/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/venv",
+        "fileHash": "cd333c344061d45179fe2cd7f41404134c9c4a1e7d773ace6eab89759134a8900510db51a88a838d70280f3ce710b4695d323680eb878f3f0e6419194d089f1e"
+      },
+      "expiry": 1596839266480
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python3.6.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.6.9",
+        "fileHash": "d86523b1d5f23bdd438c24af99440833ec4634337b6bcbaca6c68baa7957d2110d6d6b04826a6fb00d3050b11f1173de08f2b8928c8eab6f8252617bc5efc2d8"
+      },
+      "expiry": 1596839266489
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.6.9",
+        "fileHash": "b769f1493d367ffe96127f8b342be478ae50983e22ac9757d324bd03e7140638609d89e38a048f8142fbff250db46b8fe7f10293b98f7a48f77fda314959e282",
+        "envName": "3.6.9",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.6.9",
+        "fileHash": "5fd39f872d30f1626180f4b1d80dd59b0208de4eb5e1c792e245f06543978f46cfa431fa654973171b98d57320cdd1c39dd98e8143ba35c4e26b098540ba39e1",
+        "envName": "3.6.9",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.6.9",
+        "fileHash": "d86523b1d5f23bdd438c24af99440833ec4634337b6bcbaca6c68baa7957d2110d6d6b04826a6fb00d3050b11f1173de08f2b8928c8eab6f8252617bc5efc2d8",
+        "envName": "3.6.9",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551",
+        "envName": "3.7.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "8dff835ec20a7acec340274f97c6f87241bd2955e40dfb91893041a39ecd8c91ffb288d4a4ae2fb1390b71604fc4f00e0e1bdb0dd3731a00185cb72f3f6a7ef3",
+        "envName": "3.7.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "54efa40befbbfb10314f930cc5275853eddd91f82b41825c004400d74cdaf2f13a0552a75ca2b4f197e74e8e7a9c643a09c736ee2442b7e4ca3f770c0dbcd68d",
+        "envName": "3.7.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+        "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+        "fileHash": "859a04d0cb1a59f93c2231ee2a20f6d978566eeb38f48d10e106bb86461a7e91a745336dd363707667f3fe3f8aa5f428382ede47fe02026c80850f0859d7d27c",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+        "fileHash": "45e12a0c2803e4e409b916a3e67d591e5b4256aeec6bdb91bc6e53eb6ffefda49914bc84fe203506c8e8f3d212fd2ec03b0ceff382eacceefde9e948e977c6bc",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/ai_stuff",
+        "fileHash": "b1e9f5b49a80671a5cf1f7f9f006e611a10087fbe82e99b3f1cd95ecffd8599776d48db56b199006e728cfa74b5c7dda8467369b26aca83fff0fddbe51fa1191",
+        "envName": "ai_stuff",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/ai_stuff",
+        "fileHash": "28d3295b86d4b9eb6f016d071950ba502382124d3fdbfd3e225ec1d1eb5557ceeb4d3277a704c1cefbb70f5d567b95b76adbf015cdf3442481122235a6282c1d",
+        "envName": "ai_stuff",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/venv",
+        "fileHash": "cd333c344061d45179fe2cd7f41404134c9c4a1e7d773ace6eab89759134a8900510db51a88a838d70280f3ce710b4695d323680eb878f3f0e6419194d089f1e",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/versions/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.9-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.9-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/venv",
+        "fileHash": "4894644e0935a5ebd4da4e785c472f405d2658ec5661bb8916aed9c36847bae73ce76f54f691a9499eb75aeb48058805dcd64d488fdb8c78b551ccafa38b3f51",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "/Users/daminirijhwani/.pyenv/versions/3.7.5/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.5 64-bit ('3.7.5': pyenv)",
+        "hash": "2fe6a1586d566172c5c5d463adf8b43441b4aac96d810dda9a7aec36a366a8d9c22dd88ae07bbf50a65356d7799d4b142e69983947706aaac48a675fe96d3551-9d7ee07b7639bca57dc395b2f53ea2df"
+      },
+      "expiry": 1596839266547
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "3ef5d47e9a4ad71e44d788b2a484bf93c46417f176ceb697a21fe58d0a86c597c6f4ab8e2408e3dcf77e8b8455e49c880e1abaf41f905b8a6cfc0f4025670c2c"
+      },
+      "expiry": 1596839266930
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "ba957dd7f8d0528052120e46fdf0c340c2b81ee31c3210860415b5432abd9a13767731a1e2d97d408ecec00ff56aa436849b99fa8cfa16c90b14c01d8f598d77",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "f7797fe268d4a8d0aa484f67f0f8d686f65d9e62f3b882eb8c4692ad3752d42b0327342e3ee3f4d253306dd082136804763cba18d3d0723c91bc2309761ae7ad",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "fb4302af054412b353c1d22547863d76b67f4550118270c679e3ababa504758b9dac56e94e56e2554cf3ef2d96f7894cc7d2113dd42d990c2212ffeacdc9fd27",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "ba957dd7f8d0528052120e46fdf0c340c2b81ee31c3210860415b5432abd9a13767731a1e2d97d408ecec00ff56aa436849b99fa8cfa16c90b14c01d8f598d77",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "f7797fe268d4a8d0aa484f67f0f8d686f65d9e62f3b882eb8c4692ad3752d42b0327342e3ee3f4d253306dd082136804763cba18d3d0723c91bc2309761ae7ad",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "fb4302af054412b353c1d22547863d76b67f4550118270c679e3ababa504758b9dac56e94e56e2554cf3ef2d96f7894cc7d2113dd42d990c2212ffeacdc9fd27",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "74bc098ac499bd32d1fb4b6c1809b874fafa6822181603b90a8aa5396ca2be526ee65d0e02a88c492ba2ca19315199326e001212446be3ad50a473a7551d4e78",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "5b3ed2bddef3e255ddfcdd0f91c83f41cb39989363a1959546b1a487742aad0365961bb4103de60761d92e018b46fdf2ef51408147d2a6cb1969c0961138ab96",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "477cb608a45dbedb20fb1ddfc7b36013d3232bdd211181326d3271970c379820b0f125a6e213c93ea72a9152b40139c8143a060c699188acbf1904af8bb9d7c1",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "1388cb11d2a293e55023395d6607cd1ae9e2e0979725f46d64a25b328ef7a29229a60e1dad722a59067d95b433b193138dac1ad4a52d589e212cb6b105bd2fa3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "8ce1e1a7594138694b8dff39bc25213c601601b9bcc5038e44be5ac533a2e1e0c8cf453d5e2c09aa626fd115e34b96dc1c8a45a05b89fdbb49133cf935f9bf84",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "3ef5d47e9a4ad71e44d788b2a484bf93c46417f176ceb697a21fe58d0a86c597c6f4ab8e2408e3dcf77e8b8455e49c880e1abaf41f905b8a6cfc0f4025670c2c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "ba957dd7f8d0528052120e46fdf0c340c2b81ee31c3210860415b5432abd9a13767731a1e2d97d408ecec00ff56aa436849b99fa8cfa16c90b14c01d8f598d77",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "f7797fe268d4a8d0aa484f67f0f8d686f65d9e62f3b882eb8c4692ad3752d42b0327342e3ee3f4d253306dd082136804763cba18d3d0723c91bc2309761ae7ad",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/daminirijhwani/.pyenv/shims/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+        "fileHash": "fb4302af054412b353c1d22547863d76b67f4550118270c679e3ababa504758b9dac56e94e56e2554cf3ef2d96f7894cc7d2113dd42d990c2212ffeacdc9fd27",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "74bc098ac499bd32d1fb4b6c1809b874fafa6822181603b90a8aa5396ca2be526ee65d0e02a88c492ba2ca19315199326e001212446be3ad50a473a7551d4e78",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.5-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.5-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "5b3ed2bddef3e255ddfcdd0f91c83f41cb39989363a1959546b1a487742aad0365961bb4103de60761d92e018b46fdf2ef51408147d2a6cb1969c0961138ab96",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "477cb608a45dbedb20fb1ddfc7b36013d3232bdd211181326d3271970c379820b0f125a6e213c93ea72a9152b40139c8143a060c699188acbf1904af8bb9d7c1",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "1388cb11d2a293e55023395d6607cd1ae9e2e0979725f46d64a25b328ef7a29229a60e1dad722a59067d95b433b193138dac1ad4a52d589e212cb6b105bd2fa3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "8ce1e1a7594138694b8dff39bc25213c601601b9bcc5038e44be5ac533a2e1e0c8cf453d5e2c09aa626fd115e34b96dc1c8a45a05b89fdbb49133cf935f9bf84",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+        "fileHash": "3ef5d47e9a4ad71e44d788b2a484bf93c46417f176ceb697a21fe58d0a86c597c6f4ab8e2408e3dcf77e8b8455e49c880e1abaf41f905b8a6cfc0f4025670c2c",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.9 64-bit ('3.6.9': pyenv)",
+        "hash": "b769f1493d367ffe96127f8b342be478ae50983e22ac9757d324bd03e7140638609d89e38a048f8142fbff250db46b8fe7f10293b98f7a48f77fda314959e282-ff0cd666eb4f6f60b0394e85da11d484"
+      },
+      "expiry": 1596839266545
+    },
+    "/Users/daminirijhwani/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.5 64-bit",
+        "hash": "ba957dd7f8d0528052120e46fdf0c340c2b81ee31c3210860415b5432abd9a13767731a1e2d97d408ecec00ff56aa436849b99fa8cfa16c90b14c01d8f598d77-49f370febe71490bfd50dcd55ea9a8a4"
+      },
+      "expiry": 1596842286508
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)",
+        "hash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2-95b3f89822d043e30291d092b2de3360"
+      },
+      "expiry": 1596842286422
+    },
+    "/Users/daminirijhwani/.pyenv/versions/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.9 64-bit ('venv': venv)",
+        "hash": "cd333c344061d45179fe2cd7f41404134c9c4a1e7d773ace6eab89759134a8900510db51a88a838d70280f3ce710b4695d323680eb878f3f0e6419194d089f1e-634a445c2df70f4b2a47d8b78a6ba916"
+      },
+      "expiry": 1596839266554
+    },
+    "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.9 64-bit ('ai_stuff': venv)",
+        "hash": "b1e9f5b49a80671a5cf1f7f9f006e611a10087fbe82e99b3f1cd95ecffd8599776d48db56b199006e728cfa74b5c7dda8467369b26aca83fff0fddbe51fa1191-c66effd53769e0fc10161c06142e94c7"
+      },
+      "expiry": 1596839266549
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "477cb608a45dbedb20fb1ddfc7b36013d3232bdd211181326d3271970c379820b0f125a6e213c93ea72a9152b40139c8143a060c699188acbf1904af8bb9d7c1-ed9726210b7a4dba2a42c4c5d160c35b"
+      },
+      "expiry": 1596842286511
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.5 64-bit",
+        "hash": "74bc098ac499bd32d1fb4b6c1809b874fafa6822181603b90a8aa5396ca2be526ee65d0e02a88c492ba2ca19315199326e001212446be3ad50a473a7551d4e78-b4af6a3775f3d00d851a2e5616d0fa90"
+      },
+      "expiry": 1596842286509
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.3 64-bit",
+        "hash": "3ef5d47e9a4ad71e44d788b2a484bf93c46417f176ceb697a21fe58d0a86c597c6f4ab8e2408e3dcf77e8b8455e49c880e1abaf41f905b8a6cfc0f4025670c2c-bb4c80b710ccb0858e8ba9d09fa176d5"
+      },
+      "expiry": 1596842286512
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "506c7fa2c54a5f4ae1425957db08428c19837e956312249e15304968660eae44e5b1387920d1fef17bddeb7b0f0c0c24bc8c29674a8c994334930e1f364284ac-37cec220e389572546f0d0c350640496"
+      },
+      "expiry": 1596842286433
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+      "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b769f1493d367ffe96127f8b342be478ae50983e22ac9757d324bd03e7140638609d89e38a048f8142fbff250db46b8fe7f10293b98f7a48f77fda314959e282",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/daminirijhwani/.pyenv/versions/3.6.9/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.9-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.9-final"
+          },
+          "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.6.9",
+          "fileHash": "b769f1493d367ffe96127f8b342be478ae50983e22ac9757d324bd03e7140638609d89e38a048f8142fbff250db46b8fe7f10293b98f7a48f77fda314959e282",
+          "envName": "3.6.9",
+          "type": "Pyenv",
+          "displayName": "Python 3.6.9 64-bit ('3.6.9': pyenv)"
+        }
+      },
+      "expiry": 1596839266578
+    },
+    "/Users/daminirijhwani/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ba957dd7f8d0528052120e46fdf0c340c2b81ee31c3210860415b5432abd9a13767731a1e2d97d408ecec00ff56aa436849b99fa8cfa16c90b14c01d8f598d77",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/daminirijhwani/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.5-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.5-final"
+          },
+          "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.7.5",
+          "fileHash": "ba957dd7f8d0528052120e46fdf0c340c2b81ee31c3210860415b5432abd9a13767731a1e2d97d408ecec00ff56aa436849b99fa8cfa16c90b14c01d8f598d77",
+          "type": "Unknown",
+          "displayName": "Python 3.7.5 64-bit"
+        }
+      },
+      "expiry": 1596842286521
+    },
+    "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.0-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.0-final"
+          },
+          "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+          "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+          "envName": "3.8.0",
+          "type": "Pyenv",
+          "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+        }
+      },
+      "expiry": 1596842286450
+    },
+    "/Users/daminirijhwani/.pyenv/versions/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cd333c344061d45179fe2cd7f41404134c9c4a1e7d773ace6eab89759134a8900510db51a88a838d70280f3ce710b4695d323680eb878f3f0e6419194d089f1e",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/daminirijhwani/.pyenv/versions/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.9-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.9-final"
+          },
+          "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/venv",
+          "fileHash": "cd333c344061d45179fe2cd7f41404134c9c4a1e7d773ace6eab89759134a8900510db51a88a838d70280f3ce710b4695d323680eb878f3f0e6419194d089f1e",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.6.9 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1596839266591
+    },
+    "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b1e9f5b49a80671a5cf1f7f9f006e611a10087fbe82e99b3f1cd95ecffd8599776d48db56b199006e728cfa74b5c7dda8467369b26aca83fff0fddbe51fa1191",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/daminirijhwani/.pyenv/versions/ai_stuff/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.9-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.9-final"
+          },
+          "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/ai_stuff",
+          "fileHash": "b1e9f5b49a80671a5cf1f7f9f006e611a10087fbe82e99b3f1cd95ecffd8599776d48db56b199006e728cfa74b5c7dda8467369b26aca83fff0fddbe51fa1191",
+          "envName": "ai_stuff",
+          "type": "Venv",
+          "displayName": "Python 3.6.9 64-bit ('ai_stuff': venv)"
+        }
+      },
+      "expiry": 1596839266584
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "477cb608a45dbedb20fb1ddfc7b36013d3232bdd211181326d3271970c379820b0f125a6e213c93ea72a9152b40139c8143a060c699188acbf1904af8bb9d7c1",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "477cb608a45dbedb20fb1ddfc7b36013d3232bdd211181326d3271970c379820b0f125a6e213c93ea72a9152b40139c8143a060c699188acbf1904af8bb9d7c1",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1596842286528
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "74bc098ac499bd32d1fb4b6c1809b874fafa6822181603b90a8aa5396ca2be526ee65d0e02a88c492ba2ca19315199326e001212446be3ad50a473a7551d4e78",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.5-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.5-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "74bc098ac499bd32d1fb4b6c1809b874fafa6822181603b90a8aa5396ca2be526ee65d0e02a88c492ba2ca19315199326e001212446be3ad50a473a7551d4e78",
+          "type": "Unknown",
+          "displayName": "Python 3.7.5 64-bit"
+        }
+      },
+      "expiry": 1596842286524
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3ef5d47e9a4ad71e44d788b2a484bf93c46417f176ceb697a21fe58d0a86c597c6f4ab8e2408e3dcf77e8b8455e49c880e1abaf41f905b8a6cfc0f4025670c2c",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.3-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.3-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7",
+          "fileHash": "3ef5d47e9a4ad71e44d788b2a484bf93c46417f176ceb697a21fe58d0a86c597c6f4ab8e2408e3dcf77e8b8455e49c880e1abaf41f905b8a6cfc0f4025670c2c",
+          "type": "Unknown",
+          "displayName": "Python 3.7.3 64-bit"
+        }
+      },
+      "expiry": 1596842286531
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "506c7fa2c54a5f4ae1425957db08428c19837e956312249e15304968660eae44e5b1387920d1fef17bddeb7b0f0c0c24bc8c29674a8c994334930e1f364284ac",
+        "info": {
+          "architecture": 3,
+          "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "506c7fa2c54a5f4ae1425957db08428c19837e956312249e15304968660eae44e5b1387920d1fef17bddeb7b0f0c0c24bc8c29674a8c994334930e1f364284ac",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1596842286457
+    },
+    "ProposeLSBanner": false,
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+      "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    }
+  },
+  "coc-python|/Users/daminirijhwani/challenged/memes_challenge": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:a84be42f922ca28a77bc719eb05b6598": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a84be42f922ca28a77bc719eb05b6598": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/daminirijhwani/challenged/memes_challenge": {
+      "architecture": 3,
+      "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+      "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    }
+  },
+  "coc-python|/Users/daminirijhwani/try": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:9f52fb0c2071dd0e97d547b63b6c7bb8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:9f52fb0c2071dd0e97d547b63b6c7bb8": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/daminirijhwani/try": {
+      "architecture": 3,
+      "path": "/Users/daminirijhwani/.pyenv/versions/3.8.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.0-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.0-final"
+      },
+      "sysPrefix": "/Users/daminirijhwani/.pyenv/versions/3.8.0",
+      "fileHash": "e6540b8ec417f786e701d5b825c2dc228556549becf4c6d3123d5066feda80c4f0eee27346dd15254446f1bc06c4a59813b8076ea3825687ef2a1844ba3997f2",
+      "envName": "3.8.0",
+      "type": "Pyenv",
+      "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

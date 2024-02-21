@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "coc-cfn-lint": ">=0.1.1",
+    "coc-clangd": ">=0.4.13",
+    "coc-java": ">=1.4.11",
+    "coc-jedi": ">=0.14.1",
+    "coc-python": ">=1.2.12",
+    "coc-tsserver": ">=1.4.9"
+  }
+}
